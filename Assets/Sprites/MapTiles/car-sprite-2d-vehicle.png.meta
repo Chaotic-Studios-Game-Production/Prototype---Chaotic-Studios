@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: d7c71acba30ab3140b93b262d27751e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8863183825681249472
+    second: car-sprite-2d-vehicle_0
+  - first:
+      213: -7261706565201496167
+    second: car-sprite-2d-vehicle_1
+  - first:
+      213: 3338349567587673013
+    second: car-sprite-2d-vehicle_2
+  - first:
+      213: -5958947204459451474
+    second: car-sprite-2d-vehicle_3
+  - first:
+      213: -2777341382765434541
+    second: car-sprite-2d-vehicle_4
+  - first:
+      213: 215289757318745827
+    second: car-sprite-2d-vehicle_5
+  - first:
+      213: 8561768675321639578
+    second: car-sprite-2d-vehicle_6
+  - first:
+      213: 4998704482614175675
+    second: car-sprite-2d-vehicle_7
+  - first:
+      213: -4601019201304159629
+    second: car-sprite-2d-vehicle_8
+  - first:
+      213: 2218346900133366336
+    second: car-sprite-2d-vehicle_9
+  - first:
+      213: -4890169377178816437
+    second: car-sprite-2d-vehicle_10
+  - first:
+      213: 3588602041060093926
+    second: car-sprite-2d-vehicle_11
+  - first:
+      213: 6441379162249670338
+    second: car-sprite-2d-vehicle_12
+  - first:
+      213: 4444892464302272302
+    second: car-sprite-2d-vehicle_13
+  - first:
+      213: -2987108440420230523
+    second: car-sprite-2d-vehicle_14
+  - first:
+      213: -2153323861772843264
+    second: car-sprite-2d-vehicle_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 668
+        width: 123
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4f7b4faba500b70800000000000000
+      internalID: 8863183825681249472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 669
+        width: 175
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997fa066a5c393b90800000000000000
+      internalID: -7261706565201496167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 673
+        width: 201
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b364209e33345e20800000000000000
+      internalID: 3338349567587673013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 679
+        width: 200
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab23e2e6119d4da0800000000000000
+      internalID: -5958947204459451474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 455
+        width: 202
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35926443ab6e479d0800000000000000
+      internalID: -2777341382765434541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 452
+        width: 187
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee83c4c4ecdcf200800000000000000
+      internalID: 215289757318745827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 448
+        width: 144
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fc9d7f3381d670800000000000000
+      internalID: 8561768675321639578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 447
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7ee5f1e37fe5540800000000000000
+      internalID: 4998704482614175675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 233
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a9385e965e520c0800000000000000
+      internalID: -4601019201304159629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 234
+        width: 175
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ac90b90c629ce10800000000000000
+      internalID: 2218346900133366336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 237
+        width: 201
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4073c55cd0a22cb0800000000000000
+      internalID: -4890169377178816437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 244
+        width: 199
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe0a90b864dc130800000000000000
+      internalID: 3588602041060093926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 19
+        width: 203
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceae7d5830646950800000000000000
+      internalID: 6441379162249670338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_13
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 15
+        width: 187
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f2c8f652e6fad30800000000000000
+      internalID: 4444892464302272302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 14
+        width: 143
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a5e2723b8ab86d0800000000000000
+      internalID: -2987108440420230523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car-sprite-2d-vehicle_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 16
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00748a44b5bdd12e0800000000000000
+      internalID: -2153323861772843264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

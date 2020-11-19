@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 50ef2759cae098e46a7cc8a10289eb12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8052991692588346997
+    second: police car - sprite - vehicle_0
+  - first:
+      213: 5102256693097507750
+    second: police car - sprite - vehicle_1
+  - first:
+      213: 2138164079576290913
+    second: police car - sprite - vehicle_2
+  - first:
+      213: -2848711331068519578
+    second: police car - sprite - vehicle_3
+  - first:
+      213: 6911682253186840193
+    second: police car - sprite - vehicle_4
+  - first:
+      213: -1903019585112352612
+    second: police car - sprite - vehicle_5
+  - first:
+      213: -4992740308136512540
+    second: police car - sprite - vehicle_6
+  - first:
+      213: -5899325789880452373
+    second: police car - sprite - vehicle_7
+  - first:
+      213: -7316195365783441144
+    second: police car - sprite - vehicle_8
+  - first:
+      213: 8103078413162926954
+    second: police car - sprite - vehicle_9
+  - first:
+      213: -6361932148757430294
+    second: police car - sprite - vehicle_10
+  - first:
+      213: 6411157994302701639
+    second: police car - sprite - vehicle_11
+  - first:
+      213: -3394344674136861246
+    second: police car - sprite - vehicle_12
+  - first:
+      213: -6231277650819637488
+    second: police car - sprite - vehicle_13
+  - first:
+      213: 6922195964407747876
+    second: police car - sprite - vehicle_14
+  - first:
+      213: -6398840816258650234
+    second: police car - sprite - vehicle_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 654
+        width: 123
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b819910e8b60e3090800000000000000
+      internalID: -8052991692588346997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 655
+        width: 175
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abafe0fd6bdec640800000000000000
+      internalID: 5102256693097507750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 659
+        width: 201
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16615a2e6e84cad10800000000000000
+      internalID: 2138164079576290913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 665
+        width: 200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bd70433285778d0800000000000000
+      internalID: -2848711331068519578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 202
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b29db36a3bef50800000000000000
+      internalID: 6911682253186840193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 438
+        width: 187
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9854cc15cd1795e0800000000000000
+      internalID: -1903019585112352612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 434
+        width: 144
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3bfb5742936bab0800000000000000
+      internalID: -4992740308136512540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 433
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaffd73372612ea0800000000000000
+      internalID: -5899325789880452373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 219
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8017e13e317a77a90800000000000000
+      internalID: -7316195365783441144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 220
+        width: 175
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6356b382eae37070800000000000000
+      internalID: 8103078413162926954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 223
+        width: 201
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeffc2cea60e5b7a0800000000000000
+      internalID: -6361932148757430294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_11
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 230
+        width: 199
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74081516a3209f850800000000000000
+      internalID: 6411157994302701639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 203
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c555dcb08dd4e0d0800000000000000
+      internalID: -3394344674136861246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1
+        width: 187
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9016cdfd0689a0800000000000000
+      internalID: -6231277650819637488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 143
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259a24ed84901060800000000000000
+      internalID: 6922195964407747876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police car - sprite - vehicle_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe1ac1e20c237a0800000000000000
+      internalID: -6398840816258650234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
