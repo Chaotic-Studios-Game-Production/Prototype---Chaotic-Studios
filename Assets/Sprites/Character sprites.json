@@ -1,0 +1,84 @@
+{"frames": [
+
+{
+	"filename": "movement left 1.png",
+	"frame": {"x":0,"y":1247,"w":675,"h":675},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":675},
+	"sourceSize": {"w":675,"h":675}
+},
+{
+	"filename": "movement left 2.png",
+	"frame": {"x":0,"y":0,"w":572,"h":572},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":572},
+	"sourceSize": {"w":572,"h":572}
+},
+{
+	"filename": "movement left 3.png",
+	"frame": {"x":572,"y":0,"w":572,"h":572},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":572},
+	"sourceSize": {"w":572,"h":572}
+},
+{
+	"filename": "movement left 4.png",
+	"frame": {"x":675,"y":1247,"w":675,"h":675},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":675},
+	"sourceSize": {"w":675,"h":675}
+},
+{
+	"filename": "movement right 1.png",
+	"frame": {"x":1284,"y":572,"w":675,"h":675},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":675},
+	"sourceSize": {"w":675,"h":675}
+},
+{
+	"filename": "movement right 2.png",
+	"frame": {"x":1350,"y":1247,"w":675,"h":675},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":675},
+	"sourceSize": {"w":675,"h":675}
+},
+{
+	"filename": "movement right 3.png",
+	"frame": {"x":1144,"y":0,"w":572,"h":572},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":572},
+	"sourceSize": {"w":572,"h":572}
+},
+{
+	"filename": "movement right 4.png",
+	"frame": {"x":609,"y":572,"w":675,"h":675},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":675,"h":675},
+	"sourceSize": {"w":675,"h":675}
+},
+{
+	"filename": "movement right 5.png",
+	"frame": {"x":0,"y":572,"w":609,"h":609},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":609,"h":609},
+	"sourceSize": {"w":609,"h":609}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Character sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":2025,"h":1922},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:42a522dd8c9d8b0e919887d2f0a5db62:4a70f62b9e945058978156a0c387cfc5:9f9a69367c0364b06f9f994eae3531d6$"
+}
+}

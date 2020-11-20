@@ -1,0 +1,3388 @@
+fileFormatVersion: 2
+guid: 0dc3635002c358a48b7640c3172f084d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6742465915530521314
+    second: Character sprites_0
+  - first:
+      213: -4989538981430603646
+    second: Character sprites_1
+  - first:
+      213: -4951236719698514264
+    second: Character sprites_2
+  - first:
+      213: -3008409211929012971
+    second: Character sprites_3
+  - first:
+      213: -1379933609487808193
+    second: Character sprites_4
+  - first:
+      213: -2498608518272951656
+    second: Character sprites_5
+  - first:
+      213: 8651003663475970965
+    second: Character sprites_6
+  - first:
+      213: -7067123386184064561
+    second: Character sprites_7
+  - first:
+      213: 4247802856727068547
+    second: Character sprites_8
+  - first:
+      213: 7722521976981199253
+    second: Character sprites_9
+  - first:
+      213: 3763495606781608958
+    second: Character sprites_10
+  - first:
+      213: -1203716031459573665
+    second: Character sprites_11
+  - first:
+      213: -3835013482229399503
+    second: Character sprites_12
+  - first:
+      213: 759514190299393975
+    second: Character sprites_13
+  - first:
+      213: 5679117327592467032
+    second: Character sprites_14
+  - first:
+      213: -6502989777806692329
+    second: Character sprites_15
+  - first:
+      213: 2076690915387478659
+    second: Character sprites_16
+  - first:
+      213: 2354448681084687975
+    second: Character sprites_17
+  - first:
+      213: -3434920828903233962
+    second: Character sprites_18
+  - first:
+      213: 7389555619984766302
+    second: Character sprites_19
+  - first:
+      213: 6984568326600497075
+    second: Character sprites_20
+  - first:
+      213: -7026684235274404607
+    second: Character sprites_21
+  - first:
+      213: 1699440699294032392
+    second: Character sprites_22
+  - first:
+      213: -3306835256260666125
+    second: Character sprites_23
+  - first:
+      213: 7484931077192399251
+    second: Character sprites_24
+  - first:
+      213: 424676186248940217
+    second: Character sprites_25
+  - first:
+      213: 4780266461694743590
+    second: Character sprites_26
+  - first:
+      213: 1424247875780619082
+    second: Character sprites_27
+  - first:
+      213: -1263543437720763863
+    second: Character sprites_28
+  - first:
+      213: -4059788582724428751
+    second: Character sprites_29
+  - first:
+      213: 4734971129599584419
+    second: Character sprites_30
+  - first:
+      213: -328764142687764584
+    second: Character sprites_31
+  - first:
+      213: -2777569416955423745
+    second: Character sprites_32
+  - first:
+      213: -1902478030526091209
+    second: Character sprites_33
+  - first:
+      213: 6083547516796358804
+    second: Character sprites_34
+  - first:
+      213: -8125434238611183631
+    second: Character sprites_35
+  - first:
+      213: -7838740026292524289
+    second: Character sprites_36
+  - first:
+      213: -6311699424770297884
+    second: Character sprites_37
+  - first:
+      213: -6299398540484482757
+    second: Character sprites_38
+  - first:
+      213: 2921347801682546830
+    second: Character sprites_39
+  - first:
+      213: 6131793209462300162
+    second: Character sprites_40
+  - first:
+      213: 8992056019417582499
+    second: Character sprites_41
+  - first:
+      213: 2179849862335067854
+    second: Character sprites_42
+  - first:
+      213: 8365647895444320519
+    second: Character sprites_43
+  - first:
+      213: -4636504387985986392
+    second: Character sprites_44
+  - first:
+      213: -1829103672517077598
+    second: Character sprites_45
+  - first:
+      213: -8670303889695541096
+    second: Character sprites_46
+  - first:
+      213: -718480725453408269
+    second: Character sprites_47
+  - first:
+      213: -7498046875557182107
+    second: Character sprites_48
+  - first:
+      213: -649283117398479279
+    second: Character sprites_49
+  - first:
+      213: 4367579624167826218
+    second: Character sprites_50
+  - first:
+      213: -8672454756454700293
+    second: Character sprites_51
+  - first:
+      213: -6885149655402540521
+    second: Character sprites_52
+  - first:
+      213: 7215467287980841963
+    second: Character sprites_53
+  - first:
+      213: -755353779555785876
+    second: Character sprites_54
+  - first:
+      213: -2910410877502624018
+    second: Character sprites_55
+  - first:
+      213: -7973733274608029092
+    second: Character sprites_56
+  - first:
+      213: -4675020528094064011
+    second: Character sprites_57
+  - first:
+      213: 3090890553827530796
+    second: Character sprites_58
+  - first:
+      213: -4999519071109737513
+    second: Character sprites_59
+  - first:
+      213: -4652505228512090647
+    second: Character sprites_60
+  - first:
+      213: -5959494461231570632
+    second: Character sprites_61
+  - first:
+      213: -6861397227031435045
+    second: Character sprites_62
+  - first:
+      213: 7348628244509115352
+    second: Character sprites_63
+  - first:
+      213: 3402882495672370890
+    second: Character sprites_64
+  - first:
+      213: 5154932629241567574
+    second: Character sprites_65
+  - first:
+      213: 6489605810735539045
+    second: Character sprites_66
+  - first:
+      213: 1631144285666706845
+    second: Character sprites_67
+  - first:
+      213: 9089558047382407963
+    second: Character sprites_68
+  - first:
+      213: -4009619364683552337
+    second: Character sprites_69
+  - first:
+      213: -6449449514390741393
+    second: Character sprites_70
+  - first:
+      213: 961081426546354275
+    second: Character sprites_71
+  - first:
+      213: 8535943111978248409
+    second: Character sprites_72
+  - first:
+      213: 5651569826176578629
+    second: Character sprites_73
+  - first:
+      213: 2281351236258904039
+    second: Character sprites_74
+  - first:
+      213: 873619594699475937
+    second: Character sprites_75
+  - first:
+      213: -3471614871211397704
+    second: Character sprites_76
+  - first:
+      213: 42892902348103066
+    second: Character sprites_77
+  - first:
+      213: -6457171496393057837
+    second: Character sprites_78
+  - first:
+      213: 8213778936173637756
+    second: Character sprites_79
+  - first:
+      213: 68579845980697873
+    second: Character sprites_80
+  - first:
+      213: 7039724038087965468
+    second: Character sprites_81
+  - first:
+      213: 4360968991945623305
+    second: Character sprites_82
+  - first:
+      213: 2619530381085969555
+    second: Character sprites_83
+  - first:
+      213: -2785926860320014797
+    second: Character sprites_84
+  - first:
+      213: -2266927590901588564
+    second: Character sprites_85
+  - first:
+      213: 65496727833486466
+    second: Character sprites_86
+  - first:
+      213: 4400444379033863511
+    second: Character sprites_87
+  - first:
+      213: -7716790481167429656
+    second: Character sprites_88
+  - first:
+      213: 1613634812338718210
+    second: Character sprites_89
+  - first:
+      213: 7400416194380060972
+    second: Character sprites_90
+  - first:
+      213: -2311950356399211249
+    second: Character sprites_91
+  - first:
+      213: 4702561831349877
+    second: Character sprites_92
+  - first:
+      213: -7015474147127401263
+    second: Character sprites_93
+  - first:
+      213: 2897741179462729243
+    second: Character sprites_94
+  - first:
+      213: -6785124552002727534
+    second: Character sprites_95
+  - first:
+      213: 3747569849568811266
+    second: Character sprites_96
+  - first:
+      213: 251723897612302587
+    second: Character sprites_97
+  - first:
+      213: 1670201219946604070
+    second: Character sprites_98
+  - first:
+      213: 8884146213613772099
+    second: Character sprites_99
+  - first:
+      213: -8405999180177638625
+    second: Character sprites_100
+  - first:
+      213: 3505222513179561638
+    second: Character sprites_101
+  - first:
+      213: -3245680809722791121
+    second: Character sprites_102
+  - first:
+      213: -6848405210608490481
+    second: Character sprites_103
+  - first:
+      213: -1929230179700136387
+    second: Character sprites_104
+  - first:
+      213: 6987321667849779108
+    second: Character sprites_105
+  - first:
+      213: -4860195461607175385
+    second: Character sprites_106
+  - first:
+      213: -4380948997755679919
+    second: Character sprites_107
+  - first:
+      213: 7991305142271160857
+    second: Character sprites_108
+  - first:
+      213: 1492271028017413656
+    second: Character sprites_109
+  - first:
+      213: 1648832012248231000
+    second: Character sprites_110
+  - first:
+      213: 4548835538413693755
+    second: Character sprites_111
+  - first:
+      213: -2124423163659928532
+    second: Character sprites_112
+  - first:
+      213: -4374271611247052610
+    second: Character sprites_113
+  - first:
+      213: -7284661465988284684
+    second: Character sprites_114
+  - first:
+      213: -202763491850341871
+    second: Character sprites_115
+  - first:
+      213: -1305440709630153456
+    second: Character sprites_116
+  - first:
+      213: -5744325086456218658
+    second: Character sprites_117
+  - first:
+      213: -8266192220891819833
+    second: Character sprites_118
+  - first:
+      213: -1472886169369631077
+    second: Character sprites_119
+  - first:
+      213: -3869584580759356871
+    second: Character sprites_120
+  - first:
+      213: 8958967453576724003
+    second: Character sprites_121
+  - first:
+      213: 5181555715308325286
+    second: Character sprites_122
+  - first:
+      213: 1305961721849657263
+    second: Character sprites_123
+  - first:
+      213: 6894948553099012735
+    second: Character sprites_124
+  - first:
+      213: 648152929833853438
+    second: Character sprites_125
+  - first:
+      213: -5132847914930399903
+    second: Character sprites_126
+  - first:
+      213: 5894052995608518773
+    second: Character sprites_127
+  - first:
+      213: -116542206058954476
+    second: Character sprites_128
+  - first:
+      213: -8747065050264190791
+    second: Character sprites_129
+  - first:
+      213: -6249442604414881178
+    second: Character sprites_130
+  - first:
+      213: 478804620868914912
+    second: Character sprites_131
+  - first:
+      213: -2710345999874810473
+    second: Character sprites_132
+  - first:
+      213: -2009587429168169289
+    second: Character sprites_133
+  - first:
+      213: 5035454052494879370
+    second: Character sprites_134
+  - first:
+      213: -8235865685766622771
+    second: Character sprites_135
+  - first:
+      213: -690542348136317075
+    second: Character sprites_136
+  - first:
+      213: 7401451273353209781
+    second: Character sprites_137
+  - first:
+      213: 3236925782887673033
+    second: Character sprites_138
+  - first:
+      213: 5180585017681853378
+    second: Character sprites_139
+  - first:
+      213: -7661006989913363320
+    second: Character sprites_140
+  - first:
+      213: -8822653208759177278
+    second: Character sprites_141
+  - first:
+      213: -2737686800206046988
+    second: Character sprites_142
+  - first:
+      213: -5464009756576138471
+    second: Character sprites_143
+  - first:
+      213: -473838977068085844
+    second: Character sprites_144
+  - first:
+      213: 8500740830448352359
+    second: Character sprites_145
+  - first:
+      213: -2606083111184875473
+    second: Character sprites_146
+  - first:
+      213: -4404856160245721709
+    second: Character sprites_147
+  - first:
+      213: 2757165803754558829
+    second: Character sprites_148
+  - first:
+      213: 388236707030828028
+    second: Character sprites_149
+  - first:
+      213: 1794646868876066683
+    second: Character sprites_150
+  - first:
+      213: -668190757047902972
+    second: Character sprites_151
+  - first:
+      213: 7441301142226614799
+    second: Character sprites_152
+  - first:
+      213: 929186851129013433
+    second: Character sprites_153
+  - first:
+      213: 5523002767254677093
+    second: Character sprites_154
+  - first:
+      213: -6165225786288140938
+    second: Character sprites_155
+  - first:
+      213: -8239882868683302882
+    second: Character sprites_156
+  - first:
+      213: 4088302103641554523
+    second: Character sprites_157
+  - first:
+      213: -3679307154729211344
+    second: Character sprites_158
+  - first:
+      213: -4841356860377573619
+    second: Character sprites_159
+  - first:
+      213: -6358624693598630410
+    second: Character sprites_160
+  - first:
+      213: 3554466257629640056
+    second: Character sprites_161
+  - first:
+      213: 9217449356226154192
+    second: Character sprites_162
+  - first:
+      213: -1024889152967702527
+    second: Character sprites_163
+  - first:
+      213: 7534169384021541396
+    second: Character sprites_164
+  - first:
+      213: 7293258603108465824
+    second: Character sprites_165
+  - first:
+      213: -3853991097303030155
+    second: Character sprites_166
+  - first:
+      213: 5101596852549825191
+    second: Character sprites_167
+  - first:
+      213: 3361328788177980873
+    second: Character sprites_168
+  - first:
+      213: 8858818129649413333
+    second: Character sprites_169
+  - first:
+      213: 4636759225173635523
+    second: Character sprites_170
+  - first:
+      213: 3205338256614676575
+    second: Character sprites_171
+  - first:
+      213: -672527855383718542
+    second: Character sprites_172
+  - first:
+      213: 8053702693482339163
+    second: Character sprites_173
+  - first:
+      213: -4906424100132641086
+    second: Character sprites_174
+  - first:
+      213: 8312074267361386728
+    second: Character sprites_175
+  - first:
+      213: -8990335754259890360
+    second: Character sprites_176
+  - first:
+      213: -6637464888104340287
+    second: Character sprites_177
+  - first:
+      213: 2109783842691180065
+    second: Character sprites_178
+  - first:
+      213: 2833367511939031059
+    second: Character sprites_179
+  - first:
+      213: -6661666192980637176
+    second: Character sprites_180
+  - first:
+      213: -2240025759384644330
+    second: Character sprites_181
+  - first:
+      213: -198551866134421925
+    second: Character sprites_182
+  - first:
+      213: -558472263103688179
+    second: Character sprites_183
+  - first:
+      213: 5001989812426369718
+    second: Character sprites_184
+  - first:
+      213: -3189411617552463220
+    second: Character sprites_185
+  - first:
+      213: -9036412883341632774
+    second: Character sprites_186
+  - first:
+      213: -6015387674953150502
+    second: Character sprites_187
+  - first:
+      213: 8584369005617557136
+    second: Character sprites_188
+  - first:
+      213: 8702751233664205960
+    second: Character sprites_189
+  - first:
+      213: 6986199151982279828
+    second: Character sprites_190
+  - first:
+      213: 9158297569984323619
+    second: Character sprites_191
+  - first:
+      213: -3599627990860042340
+    second: Character sprites_192
+  - first:
+      213: 6788491806013918041
+    second: Character sprites_193
+  - first:
+      213: -2983881538632411951
+    second: Character sprites_194
+  - first:
+      213: 352329322339651422
+    second: Character sprites_195
+  - first:
+      213: -7374174316848926914
+    second: Character sprites_196
+  - first:
+      213: 364528034388490575
+    second: Character sprites_197
+  - first:
+      213: -54198753295401329
+    second: Character sprites_198
+  - first:
+      213: -4844418885857081283
+    second: Character sprites_199
+  - first:
+      213: -2599633210242384893
+    second: Character sprites_200
+  - first:
+      213: 151034646535600961
+    second: Character sprites_201
+  - first:
+      213: -2441419293218035837
+    second: Character sprites_202
+  - first:
+      213: 674787936250980836
+    second: Character sprites_203
+  - first:
+      213: 4431140210715014855
+    second: Character sprites_204
+  - first:
+      213: 3762022398868785310
+    second: Character sprites_205
+  - first:
+      213: 9120019636618063725
+    second: Character sprites_206
+  - first:
+      213: -7025564467465252867
+    second: Character sprites_207
+  - first:
+      213: 7216902227343067539
+    second: Character sprites_208
+  - first:
+      213: -1682579011672218162
+    second: Character sprites_209
+  - first:
+      213: -7472574919200285923
+    second: Character sprites_210
+  - first:
+      213: 486061457761250109
+    second: Character sprites_211
+  - first:
+      213: 6135575889360654376
+    second: Character sprites_212
+  - first:
+      213: -7617182117821543191
+    second: Character sprites_213
+  - first:
+      213: -8474699944517699394
+    second: Character sprites_214
+  - first:
+      213: 7425002345998847358
+    second: Character sprites_215
+  - first:
+      213: -2354332569386514750
+    second: Character sprites_216
+  - first:
+      213: -2844157587547454089
+    second: Character sprites_217
+  - first:
+      213: -3828847509218924605
+    second: Character sprites_218
+  - first:
+      213: -2462148433623173276
+    second: Character sprites_219
+  - first:
+      213: 829016570111630990
+    second: Character sprites_220
+  - first:
+      213: -9185260953664307786
+    second: Character sprites_221
+  - first:
+      213: 5094458622696041341
+    second: Character sprites_222
+  - first:
+      213: 8566029556082791539
+    second: Character sprites_223
+  - first:
+      213: -8575249639582089248
+    second: Character sprites_224
+  - first:
+      213: 7254228925059653598
+    second: Character sprites_225
+  - first:
+      213: 5187473306300092218
+    second: Character sprites_226
+  - first:
+      213: -7176757833400858657
+    second: Character sprites_227
+  - first:
+      213: -2224063734788966603
+    second: Character sprites_228
+  - first:
+      213: 3157315958092705951
+    second: Character sprites_229
+  - first:
+      213: 8982469049955219828
+    second: Character sprites_230
+  - first:
+      213: -4752730736276942982
+    second: Character sprites_231
+  - first:
+      213: 6000142323360899267
+    second: Character sprites_232
+  - first:
+      213: -8516364719536423650
+    second: Character sprites_233
+  - first:
+      213: -5425034875324935933
+    second: Character sprites_234
+  - first:
+      213: 8699612630419200467
+    second: Character sprites_235
+  - first:
+      213: -855665790501358264
+    second: Character sprites_236
+  - first:
+      213: -9147826936246860653
+    second: Character sprites_237
+  - first:
+      213: 870091015415647054
+    second: Character sprites_238
+  - first:
+      213: -2528553015422376433
+    second: Character sprites_239
+  - first:
+      213: -2993798970743354166
+    second: Character sprites_240
+  - first:
+      213: -6008739431063524927
+    second: Character sprites_241
+  - first:
+      213: -7822696346961288463
+    second: Character sprites_242
+  - first:
+      213: 2136970407295399022
+    second: Character sprites_243
+  - first:
+      213: -4595573931841091391
+    second: Character sprites_244
+  - first:
+      213: -8487172623461394326
+    second: Character sprites_245
+  - first:
+      213: 2291082462209312337
+    second: Character sprites_246
+  - first:
+      213: -2312069264692093554
+    second: Character sprites_247
+  - first:
+      213: 6473655944169612049
+    second: Character sprites_248
+  - first:
+      213: -8112149664799058360
+    second: Character sprites_249
+  - first:
+      213: -414295406649694896
+    second: Character sprites_250
+  - first:
+      213: 1078103916819405222
+    second: Character sprites_251
+  - first:
+      213: -3260562135302010769
+    second: Character sprites_252
+  - first:
+      213: 1540219501026590735
+    second: Character sprites_253
+  - first:
+      213: -3697831264033058756
+    second: Character sprites_254
+  - first:
+      213: -8321483890536363393
+    second: Character sprites_255
+  - first:
+      213: 5948293673901537246
+    second: Character sprites_256
+  - first:
+      213: -6894459208003848882
+    second: Character sprites_257
+  - first:
+      213: 8862614308593475952
+    second: Character sprites_258
+  - first:
+      213: -2613968954883136532
+    second: Character sprites_259
+  - first:
+      213: 6439442867834353058
+    second: Character sprites_260
+  - first:
+      213: -9166182360243605335
+    second: Character sprites_261
+  - first:
+      213: -238963074422852161
+    second: Character sprites_262
+  - first:
+      213: -2681526685049314174
+    second: Character sprites_263
+  - first:
+      213: 7547878205143439090
+    second: Character sprites_264
+  - first:
+      213: -8459229596148603018
+    second: Character sprites_265
+  - first:
+      213: 1249719786349311709
+    second: Character sprites_266
+  - first:
+      213: -5448522254649954828
+    second: Character sprites_267
+  - first:
+      213: 8384128265547130208
+    second: Character sprites_268
+  - first:
+      213: 4114681266243363920
+    second: Character sprites_269
+  - first:
+      213: -3432878130669506988
+    second: Character sprites_270
+  - first:
+      213: 6339495822915422018
+    second: Character sprites_271
+  - first:
+      213: -4802728405065620304
+    second: Character sprites_272
+  - first:
+      213: -3427770908464611261
+    second: Character sprites_273
+  - first:
+      213: 832626003518913550
+    second: Character sprites_274
+  - first:
+      213: -1492986878307473803
+    second: Character sprites_275
+  - first:
+      213: 4176256489773566762
+    second: Character sprites_276
+  - first:
+      213: -7014768889222277450
+    second: Character sprites_277
+  - first:
+      213: 6133548356999380094
+    second: Character sprites_278
+  - first:
+      213: 1095395703112564149
+    second: Character sprites_279
+  - first:
+      213: 7120035679530750939
+    second: Character sprites_280
+  - first:
+      213: 2840599400867838523
+    second: Character sprites_281
+  - first:
+      213: -4599016576983883202
+    second: Character sprites_282
+  - first:
+      213: 1361609867619825580
+    second: Character sprites_283
+  - first:
+      213: -5458035263308200529
+    second: Character sprites_284
+  - first:
+      213: 2072961221435404005
+    second: Character sprites_285
+  - first:
+      213: 3639548437301386380
+    second: Character sprites_286
+  - first:
+      213: -6143362262636137192
+    second: Character sprites_287
+  - first:
+      213: 8565261820727549704
+    second: Character sprites_288
+  - first:
+      213: -5282091128718690462
+    second: Character sprites_289
+  - first:
+      213: 4823974395999225674
+    second: Character sprites_290
+  - first:
+      213: 5040644446244428605
+    second: Character sprites_291
+  - first:
+      213: -2892006921522607712
+    second: Character sprites_292
+  - first:
+      213: -7987764590068715847
+    second: Character sprites_293
+  - first:
+      213: 4929154933907703524
+    second: Character sprites_294
+  - first:
+      213: -7936444687047683991
+    second: Character sprites_295
+  - first:
+      213: -3830628694019419711
+    second: Character sprites_296
+  - first:
+      213: -1022946815903560455
+    second: Character sprites_297
+  - first:
+      213: 511734461432346608
+    second: Character sprites_298
+  - first:
+      213: -1256239878412018347
+    second: Character sprites_299
+  - first:
+      213: 1230573182419954084
+    second: Character sprites_300
+  - first:
+      213: 3749482486478594826
+    second: Character sprites_301
+  - first:
+      213: 6929990034298771107
+    second: Character sprites_302
+  - first:
+      213: -482836792730886646
+    second: Character sprites_303
+  - first:
+      213: 1724525452506113072
+    second: Character sprites_304
+  - first:
+      213: 2895275946947555388
+    second: Character sprites_305
+  - first:
+      213: -6521365760079062998
+    second: Character sprites_306
+  - first:
+      213: 4889109460786140445
+    second: Character sprites_307
+  - first:
+      213: 6896723772129590040
+    second: Character sprites_308
+  - first:
+      213: 1326321541188938528
+    second: Character sprites_309
+  - first:
+      213: 6294594072099218498
+    second: Character sprites_310
+  - first:
+      213: 2524172348616360047
+    second: Character sprites_311
+  - first:
+      213: 3697738567556335147
+    second: Character sprites_312
+  - first:
+      213: 759595928123369729
+    second: Character sprites_313
+  - first:
+      213: -5197742547172891056
+    second: Character sprites_314
+  - first:
+      213: 8827957232284485254
+    second: Character sprites_315
+  - first:
+      213: -1589845077458611588
+    second: Character sprites_316
+  - first:
+      213: 2426588461526460577
+    second: Character sprites_317
+  - first:
+      213: -5626363530684913608
+    second: Character sprites_318
+  - first:
+      213: -1039451953798216932
+    second: Character sprites_319
+  - first:
+      213: 5150157170173689317
+    second: Character sprites_320
+  - first:
+      213: -8199525409113483378
+    second: Character sprites_321
+  - first:
+      213: -4054849864621433498
+    second: Character sprites_322
+  - first:
+      213: -7365410520360954369
+    second: Character sprites_323
+  - first:
+      213: -3141508189328664766
+    second: Character sprites_324
+  - first:
+      213: -6383828309888829191
+    second: Character sprites_325
+  - first:
+      213: 5111942325084273559
+    second: Character sprites_326
+  - first:
+      213: -69791262677445464
+    second: Character sprites_327
+  - first:
+      213: 8662718717455209698
+    second: Character sprites_328
+  - first:
+      213: 5057235864089227052
+    second: Character sprites_329
+  - first:
+      213: 2478664887186690263
+    second: Character sprites_330
+  - first:
+      213: -6773334626232585521
+    second: Character sprites_331
+  - first:
+      213: 5016241351907571555
+    second: Character sprites_332
+  - first:
+      213: 5249339464030810626
+    second: Character sprites_333
+  - first:
+      213: 6608521533447079972
+    second: Character sprites_334
+  - first:
+      213: 517585909799657688
+    second: Character sprites_335
+  - first:
+      213: -5741593527835442836
+    second: Character sprites_336
+  - first:
+      213: -2200738664620423350
+    second: Character sprites_337
+  - first:
+      213: -1671340519918035993
+    second: Character sprites_338
+  - first:
+      213: -9044375037556828956
+    second: Character sprites_339
+  - first:
+      213: -5401756256083305911
+    second: Character sprites_340
+  - first:
+      213: -7388272809104422392
+    second: Character sprites_341
+  - first:
+      213: -2471131466598018944
+    second: Character sprites_342
+  - first:
+      213: -5415873376183558211
+    second: Character sprites_343
+  - first:
+      213: -5349800927164292482
+    second: Character sprites_344
+  - first:
+      213: 8589360398098374751
+    second: Character sprites_345
+  - first:
+      213: 7406314692457922683
+    second: Character sprites_346
+  - first:
+      213: 5549024280472328074
+    second: Character sprites_347
+  - first:
+      213: 8801685424008505342
+    second: Character sprites_348
+  - first:
+      213: 5870463432005524290
+    second: Character sprites_349
+  - first:
+      213: 5802617080535426295
+    second: Character sprites_350
+  - first:
+      213: -4422156363679618271
+    second: Character sprites_351
+  - first:
+      213: -6738002827141658603
+    second: Character sprites_352
+  - first:
+      213: 1126335423402987116
+    second: Character sprites_353
+  - first:
+      213: -8108528210732689650
+    second: Character sprites_354
+  - first:
+      213: -120695496127028095
+    second: Character sprites_355
+  - first:
+      213: -4600517404159618815
+    second: Character sprites_356
+  - first:
+      213: -4142826332275486027
+    second: Character sprites_357
+  - first:
+      213: -5515764707277938836
+    second: Character sprites_358
+  - first:
+      213: 5843368319262358051
+    second: Character sprites_359
+  - first:
+      213: 5644180588443283594
+    second: Character sprites_360
+  - first:
+      213: -7257402305344288227
+    second: Character sprites_361
+  - first:
+      213: 3171556727344360767
+    second: Character sprites_362
+  - first:
+      213: -8508975061562389465
+    second: Character sprites_363
+  - first:
+      213: -6385235573574498187
+    second: Character sprites_364
+  - first:
+      213: 302858571872202079
+    second: Character sprites_365
+  - first:
+      213: -2025652841088291180
+    second: Character sprites_366
+  - first:
+      213: 1242851673539767281
+    second: Character sprites_367
+  - first:
+      213: -8283322323280698511
+    second: Character sprites_368
+  - first:
+      213: -5409171422320673939
+    second: Character sprites_369
+  - first:
+      213: 2741941292254495713
+    second: Character sprites_370
+  - first:
+      213: -8205666979251495173
+    second: Character sprites_371
+  - first:
+      213: 4949073791792649875
+    second: Character sprites_372
+  - first:
+      213: -8218618686336149393
+    second: Character sprites_373
+  - first:
+      213: -8415823163014129393
+    second: Character sprites_374
+  - first:
+      213: 3953415529826041007
+    second: Character sprites_375
+  - first:
+      213: -8806543001486738032
+    second: Character sprites_376
+  - first:
+      213: -4988244350280428677
+    second: Character sprites_377
+  - first:
+      213: 2278491879559936970
+    second: Character sprites_378
+  - first:
+      213: 2283829765622477342
+    second: Character sprites_379
+  - first:
+      213: -1803679814528303841
+    second: Character sprites_380
+  - first:
+      213: -5081531822070583543
+    second: Character sprites_381
+  - first:
+      213: 348938038636745143
+    second: Character sprites_382
+  - first:
+      213: 2666031937554902874
+    second: Character sprites_383
+  - first:
+      213: -1242531053490467351
+    second: Character sprites_384
+  - first:
+      213: 1550106098265298370
+    second: Character sprites_385
+  - first:
+      213: -4099204236309452546
+    second: Character sprites_386
+  - first:
+      213: -406511926189676654
+    second: Character sprites_387
+  - first:
+      213: 6384473565544259366
+    second: Character sprites_388
+  - first:
+      213: 6404849968336446100
+    second: Character sprites_389
+  - first:
+      213: -3627923126070627859
+    second: Character sprites_390
+  - first:
+      213: 8512578900121300495
+    second: Character sprites_391
+  - first:
+      213: 1979654832881557145
+    second: Character sprites_392
+  - first:
+      213: -3536463642119242352
+    second: Character sprites_393
+  - first:
+      213: -1500842890865458485
+    second: Character sprites_394
+  - first:
+      213: 456331378768577339
+    second: Character sprites_395
+  - first:
+      213: 156136489371278835
+    second: Character sprites_396
+  - first:
+      213: 7576390346259364983
+    second: Character sprites_397
+  - first:
+      213: -4234264258423299409
+    second: Character sprites_398
+  - first:
+      213: -7637140784227893898
+    second: Character sprites_399
+  - first:
+      213: 2785833980835641613
+    second: Character sprites_400
+  - first:
+      213: 5241963392798006247
+    second: Character sprites_401
+  - first:
+      213: 1882583618370048531
+    second: Character sprites_402
+  - first:
+      213: 7893461431581647569
+    second: Character sprites_403
+  - first:
+      213: -6887101177538386742
+    second: Character sprites_404
+  - first:
+      213: -8850275480143088217
+    second: Character sprites_405
+  - first:
+      213: 1580077384915750033
+    second: Character sprites_406
+  - first:
+      213: 4287994040805545019
+    second: Character sprites_407
+  - first:
+      213: -4545075418361187654
+    second: Character sprites_408
+  - first:
+      213: -1766685029321119
+    second: Character sprites_409
+  - first:
+      213: 4648465291579233953
+    second: Character sprites_410
+  - first:
+      213: -2722032875735495539
+    second: Character sprites_411
+  - first:
+      213: 8196316385775519331
+    second: Character sprites_412
+  - first:
+      213: 1898276776445374648
+    second: Character sprites_413
+  - first:
+      213: -5485907028715871714
+    second: Character sprites_414
+  - first:
+      213: -1147382427769699992
+    second: Character sprites_415
+  - first:
+      213: -6745926577212411899
+    second: Character sprites_416
+  - first:
+      213: -7474048230953172603
+    second: Character sprites_417
+  - first:
+      213: 3822836698002425921
+    second: Character sprites_418
+  - first:
+      213: -8774670456651760712
+    second: Character sprites_419
+  - first:
+      213: 8535036890019789871
+    second: Character sprites_420
+  - first:
+      213: -25730262682142856
+    second: Character sprites_421
+  - first:
+      213: -7636977571945039837
+    second: Character sprites_422
+  - first:
+      213: 1774777870951194393
+    second: Character sprites_423
+  - first:
+      213: 8162587334991512045
+    second: Character sprites_424
+  - first:
+      213: 8982091514070244354
+    second: Character sprites_425
+  - first:
+      213: 7077209784333515741
+    second: Character sprites_426
+  - first:
+      213: 5211513461952340765
+    second: Character sprites_427
+  - first:
+      213: -2768991618784736314
+    second: Character sprites_428
+  - first:
+      213: 8814149857609537493
+    second: Character sprites_429
+  - first:
+      213: -8201694098363544560
+    second: Character sprites_430
+  - first:
+      213: -9139434363666612946
+    second: Character sprites_431
+  - first:
+      213: 673140782294990416
+    second: Character sprites_432
+  - first:
+      213: -7860330354210095556
+    second: Character sprites_433
+  - first:
+      213: 4545546417786890390
+    second: Character sprites_434
+  - first:
+      213: -5729089186144142893
+    second: Character sprites_435
+  - first:
+      213: -1914673376221768555
+    second: Character sprites_436
+  - first:
+      213: 6085546079150616944
+    second: Character sprites_437
+  - first:
+      213: 462213779136899079
+    second: Character sprites_438
+  - first:
+      213: 1433602194088739988
+    second: Character sprites_439
+  - first:
+      213: -2013351819142291157
+    second: Character sprites_440
+  - first:
+      213: -8208002682425811205
+    second: Character sprites_441
+  - first:
+      213: 851640771700357658
+    second: Character sprites_442
+  - first:
+      213: -1376860454591138959
+    second: Character sprites_443
+  - first:
+      213: 2285630532261051466
+    second: Character sprites_444
+  - first:
+      213: -6467683997748657904
+    second: Character sprites_445
+  - first:
+      213: -987059202775426340
+    second: Character sprites_446
+  - first:
+      213: 6583291200838036441
+    second: Character sprites_447
+  - first:
+      213: -4375840795476455417
+    second: Character sprites_448
+  - first:
+      213: 330388600018272942
+    second: Character sprites_449
+  - first:
+      213: -2814887758364534081
+    second: Character sprites_450
+  - first:
+      213: -7147768000295292181
+    second: Character sprites_451
+  - first:
+      213: 5422288815057696044
+    second: Character sprites_452
+  - first:
+      213: -8750181608106545616
+    second: Character sprites_453
+  - first:
+      213: 2874124882594571903
+    second: Character sprites_454
+  - first:
+      213: -2200109250151260774
+    second: Character sprites_455
+  - first:
+      213: -1767424517826455262
+    second: Character sprites_456
+  - first:
+      213: -5267648135474847113
+    second: Character sprites_457
+  - first:
+      213: 2820176454004744159
+    second: Character sprites_458
+  - first:
+      213: 2491126052920319185
+    second: Character sprites_459
+  - first:
+      213: 6308307749184989753
+    second: Character sprites_460
+  - first:
+      213: -7011992077349924157
+    second: Character sprites_461
+  - first:
+      213: -6825947293004869556
+    second: Character sprites_462
+  - first:
+      213: -1884212843373117768
+    second: Character sprites_463
+  - first:
+      213: 7724564732067240932
+    second: Character sprites_464
+  - first:
+      213: -6019306190849467846
+    second: Character sprites_465
+  - first:
+      213: 9040171376467000054
+    second: Character sprites_466
+  - first:
+      213: -5033592086239755965
+    second: Character sprites_467
+  - first:
+      213: -1283472193222961433
+    second: Character sprites_468
+  - first:
+      213: 2706593416650643294
+    second: Character sprites_469
+  - first:
+      213: 5715808841115062130
+    second: Character sprites_470
+  - first:
+      213: -7668478568969812962
+    second: Character sprites_471
+  - first:
+      213: -4234002626767602465
+    second: Character sprites_472
+  - first:
+      213: -5494849355368267319
+    second: Character sprites_473
+  - first:
+      213: 5751401626692753379
+    second: Character sprites_474
+  - first:
+      213: -3360574221848940727
+    second: Character sprites_475
+  - first:
+      213: 7859668666471496308
+    second: Character sprites_476
+  - first:
+      213: 227225035500911072
+    second: Character sprites_477
+  - first:
+      213: -6431854347649326428
+    second: Character sprites_478
+  - first:
+      213: 2809978670233418694
+    second: Character sprites_479
+  - first:
+      213: 7252673818955567421
+    second: Character sprites_480
+  - first:
+      213: 4529503346079168360
+    second: Character sprites_481
+  - first:
+      213: -3519472053645611588
+    second: Character sprites_482
+  - first:
+      213: -5712312169159565571
+    second: Character sprites_483
+  - first:
+      213: 3728334418230443542
+    second: Character sprites_484
+  - first:
+      213: -7318636072641519051
+    second: Character sprites_485
+  - first:
+      213: 3029166444778361193
+    second: Character sprites_486
+  - first:
+      213: 4592356312381621576
+    second: Character sprites_487
+  - first:
+      213: -6929309451587811010
+    second: Character sprites_488
+  - first:
+      213: -4918583911482779028
+    second: Character sprites_489
+  - first:
+      213: 169897090622324210
+    second: Character sprites_490
+  - first:
+      213: -8722829565619186625
+    second: Character sprites_491
+  - first:
+      213: -5954009931203422569
+    second: Character sprites_492
+  - first:
+      213: 496907947894922938
+    second: Character sprites_493
+  - first:
+      213: -8098315696492481140
+    second: Character sprites_494
+  - first:
+      213: 5476547544765965087
+    second: Character sprites_495
+  - first:
+      213: 2342238160504584867
+    second: Character sprites_496
+  - first:
+      213: -2531703797641761477
+    second: Character sprites_497
+  - first:
+      213: 3645742384853856574
+    second: Character sprites_498
+  - first:
+      213: 1425219504481061354
+    second: Character sprites_499
+  - first:
+      213: -3930802568927682002
+    second: Character sprites_500
+  - first:
+      213: -7879586508247891781
+    second: Character sprites_501
+  - first:
+      213: -7139675690091415153
+    second: Character sprites_502
+  - first:
+      213: -6271440507054421218
+    second: Character sprites_503
+  - first:
+      213: 4381252629236516704
+    second: Character sprites_504
+  - first:
+      213: -1332253265016835106
+    second: Character sprites_505
+  - first:
+      213: 2946563078733776142
+    second: Character sprites_506
+  - first:
+      213: 5710404629588368714
+    second: Character sprites_507
+  - first:
+      213: 4958197363769484655
+    second: Character sprites_508
+  - first:
+      213: 6162364680567910072
+    second: Character sprites_509
+  - first:
+      213: 1995592299673424160
+    second: Character sprites_510
+  - first:
+      213: 5375246459920762678
+    second: Character sprites_511
+  - first:
+      213: 4697082092209795080
+    second: Character sprites_512
+  - first:
+      213: -4054486048304533927
+    second: Character sprites_513
+  - first:
+      213: 9077848163169830917
+    second: Character sprites_514
+  - first:
+      213: -2025568167235136102
+    second: Character sprites_515
+  - first:
+      213: 5738116661960944009
+    second: Character sprites_516
+  - first:
+      213: 5352504386717142144
+    second: Character sprites_517
+  - first:
+      213: 7598345970964858244
+    second: Character sprites_518
+  - first:
+      213: -8825275884103501756
+    second: Character sprites_519
+  - first:
+      213: -5953118159604707897
+    second: Character sprites_520
+  - first:
+      213: 6477853722118925617
+    second: Character sprites_521
+  - first:
+      213: -2131208660235137032
+    second: Character sprites_522
+  - first:
+      213: -4120872661054733615
+    second: Character sprites_523
+  - first:
+      213: -3945378712918255951
+    second: Character sprites_524
+  - first:
+      213: 2584209193217753806
+    second: Character sprites_525
+  - first:
+      213: -3789214140258820266
+    second: Character sprites_526
+  - first:
+      213: 8976348707697125454
+    second: Character sprites_527
+  - first:
+      213: 7272395780756933838
+    second: Character sprites_528
+  - first:
+      213: -60208598764835009
+    second: Character sprites_529
+  - first:
+      213: 7702794545992949101
+    second: Character sprites_530
+  - first:
+      213: -7278282396891817484
+    second: Character sprites_531
+  - first:
+      213: -5349345261602240046
+    second: Character sprites_532
+  - first:
+      213: 6758488065106414950
+    second: Character sprites_533
+  - first:
+      213: -6872268307032416919
+    second: Character sprites_534
+  - first:
+      213: -8898895072572687726
+    second: Character sprites_535
+  - first:
+      213: 7277508873620591747
+    second: Character sprites_536
+  - first:
+      213: 415272620009226011
+    second: Character sprites_537
+  - first:
+      213: 6347664654850283713
+    second: Character sprites_538
+  - first:
+      213: -4195413059070197194
+    second: Character sprites_539
+  - first:
+      213: 7842696197786570695
+    second: Character sprites_540
+  - first:
+      213: 2146027431930220680
+    second: Character sprites_541
+  - first:
+      213: 4666644169421895406
+    second: Character sprites_542
+  - first:
+      213: 6148665632731460817
+    second: Character sprites_543
+  - first:
+      213: 3814476597503645557
+    second: Character sprites_544
+  - first:
+      213: -6327300677025401330
+    second: Character sprites_545
+  - first:
+      213: 7098523052838194368
+    second: Character sprites_546
+  - first:
+      213: -839393510924007214
+    second: Character sprites_547
+  - first:
+      213: 1833124629101492366
+    second: Character sprites_548
+  - first:
+      213: 5467338613894292194
+    second: Character sprites_549
+  - first:
+      213: -7965948857610163240
+    second: Character sprites_550
+  - first:
+      213: -1398483277382585435
+    second: Character sprites_551
+  - first:
+      213: -7760892899018060871
+    second: Character sprites_552
+  - first:
+      213: 6305197383868345369
+    second: Character sprites_553
+  - first:
+      213: -4860719407785455868
+    second: Character sprites_554
+  - first:
+      213: -8827698570040839380
+    second: Character sprites_555
+  - first:
+      213: -6783596784747066448
+    second: Character sprites_556
+  - first:
+      213: -2471435667654094691
+    second: Character sprites_557
+  - first:
+      213: 7513933543975778701
+    second: Character sprites_558
+  - first:
+      213: -8462772318426786133
+    second: Character sprites_559
+  - first:
+      213: -2846170054825149675
+    second: Character sprites_560
+  - first:
+      213: -7628172147888707941
+    second: Character sprites_561
+  - first:
+      213: -3548366039995810599
+    second: Character sprites_562
+  - first:
+      213: -1010479197555319429
+    second: Character sprites_563
+  - first:
+      213: 8443987853207588423
+    second: Character sprites_564
+  - first:
+      213: 5517903724618096823
+    second: Character sprites_565
+  - first:
+      213: -7701883785064829632
+    second: Character sprites_566
+  - first:
+      213: 2392189128096646192
+    second: Character sprites_567
+  - first:
+      213: 3353060826496451540
+    second: Character sprites_568
+  - first:
+      213: -6739438370768286238
+    second: Character sprites_569
+  - first:
+      213: 6533011560371865553
+    second: Character sprites_570
+  - first:
+      213: 7424031832288179321
+    second: Character sprites_571
+  - first:
+      213: -3963225173227782505
+    second: Character sprites_572
+  - first:
+      213: 6954014524439825857
+    second: Character sprites_573
+  - first:
+      213: 1809249482203448362
+    second: Character sprites_574
+  - first:
+      213: -3218852787022909907
+    second: Character sprites_575
+  - first:
+      213: 3081207142756393523
+    second: Character sprites_576
+  - first:
+      213: -2022517686361174371
+    second: Character sprites_577
+  - first:
+      213: -2033277720590893447
+    second: Character sprites_578
+  - first:
+      213: -9190064177645230409
+    second: Character sprites_579
+  - first:
+      213: 4080717822794521482
+    second: Character sprites_580
+  - first:
+      213: -3491697988052803356
+    second: Character sprites_581
+  - first:
+      213: 2092706521559743314
+    second: Character sprites_582
+  - first:
+      213: 7445654691497892961
+    second: Character sprites_583
+  - first:
+      213: 6110097905367505431
+    second: Character sprites_584
+  - first:
+      213: 3682374014984528374
+    second: Character sprites_585
+  - first:
+      213: 7720051741229376501
+    second: Character sprites_586
+  - first:
+      213: 4171267595924326119
+    second: Character sprites_587
+  - first:
+      213: 4171840121596222743
+    second: Character sprites_588
+  - first:
+      213: -2141045476618740213
+    second: Character sprites_589
+  - first:
+      213: 8676653274406757003
+    second: Character sprites_590
+  - first:
+      213: -2225224885810397382
+    second: Character sprites_591
+  - first:
+      213: -4141063598677557987
+    second: Character sprites_592
+  - first:
+      213: 2242179624987300485
+    second: Character sprites_593
+  - first:
+      213: -4253319598993334279
+    second: Character sprites_594
+  - first:
+      213: -4894497607675783261
+    second: Character sprites_595
+  - first:
+      213: 9211740405449513002
+    second: Character sprites_596
+  - first:
+      213: 3223464144041057156
+    second: Character sprites_597
+  - first:
+      213: 2209980929417747160
+    second: Character sprites_598
+  - first:
+      213: -8664133345761046427
+    second: Character sprites_599
+  - first:
+      213: 7181927856154303230
+    second: Character sprites_600
+  - first:
+      213: -5569174672693176420
+    second: Character sprites_601
+  - first:
+      213: 5814902630757026942
+    second: Character sprites_602
+  - first:
+      213: 8256080247798610253
+    second: Character sprites_603
+  - first:
+      213: 1864691268470153377
+    second: Character sprites_604
+  - first:
+      213: 4475421771470589955
+    second: Character sprites_605
+  - first:
+      213: -6516083653167575779
+    second: Character sprites_606
+  - first:
+      213: -1203611988393801999
+    second: Character sprites_607
+  - first:
+      213: -5072067612801634704
+    second: Character sprites_608
+  - first:
+      213: -5581458124787826576
+    second: Character sprites_609
+  - first:
+      213: -2491581306302698211
+    second: Character sprites_610
+  - first:
+      213: -8007467211500792146
+    second: Character sprites_611
+  - first:
+      213: -8263570698264668991
+    second: Character sprites_612
+  - first:
+      213: 4084079392386279634
+    second: Character sprites_613
+  - first:
+      213: -6130970051962406737
+    second: Character sprites_614
+  - first:
+      213: 8966541168686700325
+    second: Character sprites_615
+  - first:
+      213: -2301188246376316165
+    second: Character sprites_616
+  - first:
+      213: 1329698830373825402
+    second: Character sprites_617
+  - first:
+      213: 125543417575804398
+    second: Character sprites_618
+  - first:
+      213: 2012495451327226585
+    second: Character sprites_619
+  - first:
+      213: -5152297594269099711
+    second: Character sprites_620
+  - first:
+      213: -2250126335996155081
+    second: Character sprites_621
+  - first:
+      213: -5949896041049312965
+    second: Character sprites_622
+  - first:
+      213: -7687727480806282980
+    second: Character sprites_623
+  - first:
+      213: 8552714425606454972
+    second: Character sprites_624
+  - first:
+      213: -5945764889085516559
+    second: Character sprites_625
+  - first:
+      213: 7808443419343400346
+    second: Character sprites_626
+  - first:
+      213: -7831497121469396616
+    second: Character sprites_627
+  - first:
+      213: -5640729751055276021
+    second: Character sprites_628
+  - first:
+      213: -144678086731570773
+    second: Character sprites_629
+  - first:
+      213: 6232944801060317673
+    second: Character sprites_630
+  - first:
+      213: 8818169038605233861
+    second: Character sprites_631
+  - first:
+      213: -297281622548376950
+    second: Character sprites_632
+  - first:
+      213: 447511323669448307
+    second: Character sprites_633
+  - first:
+      213: 7242463120415550468
+    second: Character sprites_634
+  - first:
+      213: -3951076460316282698
+    second: Character sprites_635
+  - first:
+      213: -3645529544752191932
+    second: Character sprites_636
+  - first:
+      213: 1223955508704845889
+    second: Character sprites_637
+  - first:
+      213: 2531051728350219736
+    second: Character sprites_638
+  - first:
+      213: -3199097903916638536
+    second: Character sprites_639
+  - first:
+      213: 5571039118359608033
+    second: Character sprites_640
+  - first:
+      213: -6513714958005023774
+    second: Character sprites_641
+  - first:
+      213: 2710615378703740079
+    second: Character sprites_642
+  - first:
+      213: -7913532293483537072
+    second: Character sprites_643
+  - first:
+      213: -8510910751122793790
+    second: Character sprites_644
+  - first:
+      213: 943409328103761115
+    second: Character sprites_645
+  - first:
+      213: -6714890440466487952
+    second: Character sprites_646
+  - first:
+      213: 297405898556883983
+    second: Character sprites_647
+  - first:
+      213: -7603976810388764474
+    second: Character sprites_648
+  - first:
+      213: 8165394337075784522
+    second: Character sprites_649
+  - first:
+      213: 562625957623840494
+    second: Character sprites_650
+  - first:
+      213: 2605746635203783611
+    second: Character sprites_651
+  - first:
+      213: 3559826337508283016
+    second: Character sprites_652
+  - first:
+      213: -4183926180826755342
+    second: Character sprites_653
+  - first:
+      213: 1981363477904603511
+    second: Character sprites_654
+  - first:
+      213: 5777455732021322986
+    second: Character sprites_655
+  - first:
+      213: 2014956031282154892
+    second: Character sprites_656
+  - first:
+      213: 907521485133462771
+    second: Character sprites_657
+  - first:
+      213: -3156658067262911651
+    second: Character sprites_658
+  - first:
+      213: -2105634249927215923
+    second: Character sprites_659
+  - first:
+      213: -8341114282334493650
+    second: Character sprites_660
+  - first:
+      213: -7504416882482440144
+    second: Character sprites_661
+  - first:
+      213: 2520067820015523515
+    second: Character sprites_662
+  - first:
+      213: 2634179890034078845
+    second: Character sprites_663
+  - first:
+      213: -7813193833265651906
+    second: Character sprites_664
+  - first:
+      213: 6482553435164896476
+    second: Character sprites_665
+  - first:
+      213: -2964776714608016307
+    second: Character sprites_666
+  - first:
+      213: 378091726407883448
+    second: Character sprites_667
+  - first:
+      213: 6126308303684602201
+    second: Character sprites_668
+  - first:
+      213: -3717057404094890130
+    second: Character sprites_669
+  - first:
+      213: 3238248657300616061
+    second: Character sprites_670
+  - first:
+      213: 7702829139991418033
+    second: Character sprites_671
+  - first:
+      213: 2929495875232650277
+    second: Character sprites_672
+  - first:
+      213: -668929093778053196
+    second: Character sprites_673
+  - first:
+      213: 6665708288794437668
+    second: Character sprites_674
+  - first:
+      213: 3821254009544819475
+    second: Character sprites_675
+  - first:
+      213: -385699971564248673
+    second: Character sprites_676
+  - first:
+      213: -5495630955570994093
+    second: Character sprites_677
+  - first:
+      213: 3972098283589159710
+    second: Character sprites_678
+  - first:
+      213: -3623218418432603770
+    second: Character sprites_679
+  - first:
+      213: 441406240832935744
+    second: Character sprites_680
+  - first:
+      213: 8708304811780498946
+    second: Character sprites_681
+  - first:
+      213: -7401987128022059031
+    second: Character sprites_682
+  - first:
+      213: 2344558433606856519
+    second: Character sprites_683
+  - first:
+      213: -5578827455373331448
+    second: Character sprites_684
+  - first:
+      213: 7386592299595375629
+    second: Character sprites_685
+  - first:
+      213: -9159193928947597797
+    second: Character sprites_686
+  - first:
+      213: -8666255821720177411
+    second: Character sprites_687
+  - first:
+      213: 8131684051746002492
+    second: Character sprites_688
+  - first:
+      213: 9043593462266194501
+    second: Character sprites_689
+  - first:
+      213: 4716191399910233634
+    second: Character sprites_690
+  - first:
+      213: 3388968966444637646
+    second: Character sprites_691
+  - first:
+      213: 7624005377141608092
+    second: Character sprites_692
+  - first:
+      213: -6131250195258166922
+    second: Character sprites_693
+  - first:
+      213: -7834107859772103575
+    second: Character sprites_694
+  - first:
+      213: -6746296022011158062
+    second: Character sprites_695
+  - first:
+      213: -9171378524791792927
+    second: Character sprites_696
+  - first:
+      213: 4326825195573773035
+    second: Character sprites_697
+  - first:
+      213: 8876902496706514250
+    second: Character sprites_698
+  - first:
+      213: -1712081783527313839
+    second: Character sprites_699
+  - first:
+      213: -7956824086394388100
+    second: Character sprites_700
+  - first:
+      213: 8820854392209228291
+    second: Character sprites_701
+  - first:
+      213: -1399892550958331062
+    second: Character sprites_702
+  - first:
+      213: -1367249928100889098
+    second: Character sprites_703
+  - first:
+      213: -6635922914897428807
+    second: Character sprites_704
+  - first:
+      213: -3065229575566454791
+    second: Character sprites_705
+  - first:
+      213: 8526466005164598767
+    second: Character sprites_706
+  - first:
+      213: -5055798737499952539
+    second: Character sprites_707
+  - first:
+      213: -5199604301390268447
+    second: Character sprites_708
+  - first:
+      213: 2240010575788553623
+    second: Character sprites_709
+  - first:
+      213: 6799621509759783338
+    second: Character sprites_710
+  - first:
+      213: -8950202102209013261
+    second: Character sprites_711
+  - first:
+      213: -5790539556128596666
+    second: Character sprites_712
+  - first:
+      213: 3669881894529145453
+    second: Character sprites_713
+  - first:
+      213: 1856472588891381176
+    second: Character sprites_714
+  - first:
+      213: -2778872425633109003
+    second: Character sprites_715
+  - first:
+      213: -8140837073206158255
+    second: Character sprites_716
+  - first:
+      213: -4621080743228333184
+    second: Character sprites_717
+  - first:
+      213: 8925222572237962730
+    second: Character sprites_718
+  - first:
+      213: -4174488116232940127
+    second: Character sprites_719
+  - first:
+      213: -4082105762501375799
+    second: Character sprites_720
+  - first:
+      213: -4107489088414108479
+    second: Character sprites_721
+  - first:
+      213: 1018205063926140982
+    second: Character sprites_722
+  - first:
+      213: -1614544586152430534
+    second: Character sprites_723
+  - first:
+      213: -24947858521801077
+    second: Character sprites_724
+  - first:
+      213: 2381202899302094737
+    second: Character sprites_725
+  - first:
+      213: 5632930871080605179
+    second: Character sprites_726
+  - first:
+      213: 6069466557847096881
+    second: Character sprites_727
+  - first:
+      213: -1613285555599604424
+    second: Character sprites_728
+  - first:
+      213: -5007636531812734497
+    second: Character sprites_729
+  - first:
+      213: -6354673390834352367
+    second: Character sprites_730
+  - first:
+      213: -4946196108064869279
+    second: Character sprites_731
+  - first:
+      213: -3165483809590285221
+    second: Character sprites_732
+  - first:
+      213: 3190342596491667033
+    second: Character sprites_733
+  - first:
+      213: 849301711120991414
+    second: Character sprites_734
+  - first:
+      213: 2398045131494476688
+    second: Character sprites_735
+  - first:
+      213: 338680415413382763
+    second: Character sprites_736
+  - first:
+      213: 1438277646114134236
+    second: Character sprites_737
+  - first:
+      213: 8441011717949952712
+    second: Character sprites_738
+  - first:
+      213: -9106167275342167695
+    second: Character sprites_739
+  - first:
+      213: 406250971873142025
+    second: Character sprites_740
+  - first:
+      213: 3869638553779609582
+    second: Character sprites_741
+  - first:
+      213: -2096555247703586606
+    second: Character sprites_742
+  - first:
+      213: 6453305619454039634
+    second: Character sprites_743
+  - first:
+      213: 380509306984408899
+    second: Character sprites_744
+  - first:
+      213: 3671772103631691373
+    second: Character sprites_745
+  - first:
+      213: -5594822350677780259
+    second: Character sprites_746
+  - first:
+      213: -1982459944933519353
+    second: Character sprites_747
+  - first:
+      213: 3467001779646503189
+    second: Character sprites_748
+  - first:
+      213: 6130200280285974643
+    second: Character sprites_749
+  - first:
+      213: 8746929404380341526
+    second: Character sprites_750
+  - first:
+      213: -8441949615817291618
+    second: Character sprites_751
+  - first:
+      213: -3007065500396213317
+    second: Character sprites_752
+  - first:
+      213: 8870770400589426018
+    second: Character sprites_753
+  - first:
+      213: -1313228352831089551
+    second: Character sprites_754
+  - first:
+      213: 6551777816680125422
+    second: Character sprites_755
+  - first:
+      213: 8646175962845843361
+    second: Character sprites_756
+  - first:
+      213: -4366939402390615276
+    second: Character sprites_757
+  - first:
+      213: -8622602881398974014
+    second: Character sprites_758
+  - first:
+      213: 417511336066061435
+    second: Character sprites_759
+  - first:
+      213: 4809634557701114097
+    second: Character sprites_760
+  - first:
+      213: -534817971413103082
+    second: Character sprites_761
+  - first:
+      213: -7619101613734316001
+    second: Character sprites_762
+  - first:
+      213: 8738911264685976247
+    second: Character sprites_763
+  - first:
+      213: 376283949865739264
+    second: Character sprites_764
+  - first:
+      213: 611708912709123694
+    second: Character sprites_765
+  - first:
+      213: -255560805717862981
+    second: Character sprites_766
+  - first:
+      213: -5318441533740360378
+    second: Character sprites_767
+  - first:
+      213: 3724493131271586817
+    second: Character sprites_768
+  - first:
+      213: 6683116593767870597
+    second: Character sprites_769
+  - first:
+      213: -6235784135250856839
+    second: Character sprites_770
+  - first:
+      213: 1648050189473211952
+    second: Character sprites_771
+  - first:
+      213: -6502014632652454445
+    second: Character sprites_772
+  - first:
+      213: 8744375436875821016
+    second: Character sprites_773
+  - first:
+      213: 1829358130487609208
+    second: Character sprites_774
+  - first:
+      213: 7735852805588573472
+    second: Character sprites_775
+  - first:
+      213: -6500119130569648227
+    second: Character sprites_776
+  - first:
+      213: 3843832758912838709
+    second: Character sprites_777
+  - first:
+      213: 4385669387747058860
+    second: Character sprites_778
+  - first:
+      213: 674607659239330898
+    second: Character sprites_779
+  - first:
+      213: 3813007737712190799
+    second: Character sprites_780
+  - first:
+      213: -8798576415667378454
+    second: Character sprites_781
+  - first:
+      213: 4062748514859352891
+    second: Character sprites_782
+  - first:
+      213: -8697323360447587283
+    second: Character sprites_783
+  - first:
+      213: -3372959954213279131
+    second: Character sprites_784
+  - first:
+      213: 1677572848333497766
+    second: Character sprites_785
+  - first:
+      213: 663399204383693106
+    second: Character sprites_786
+  - first:
+      213: 3877079152123327529
+    second: Character sprites_787
+  - first:
+      213: 8517473219638481113
+    second: Character sprites_788
+  - first:
+      213: -1028711480092503095
+    second: Character sprites_789
+  - first:
+      213: -1272339894767968610
+    second: Character sprites_790
+  - first:
+      213: -884656392130181823
+    second: Character sprites_791
+  - first:
+      213: -1476184520767856435
+    second: Character sprites_792
+  - first:
+      213: 7965095534892414761
+    second: Character sprites_793
+  - first:
+      213: 3072637775942563971
+    second: Character sprites_794
+  - first:
+      213: 2027538261606243984
+    second: Character sprites_795
+  - first:
+      213: -5341215821054781184
+    second: Character sprites_796
+  - first:
+      213: -7398686817680607381
+    second: Character sprites_797
+  - first:
+      213: 9148184062474354350
+    second: Character sprites_798
+  - first:
+      213: 6985330386492859636
+    second: Character sprites_799
+  - first:
+      213: 9058566970545577176
+    second: Character sprites_800
+  - first:
+      213: 4604569367403789681
+    second: Character sprites_801
+  - first:
+      213: -3034328281330285817
+    second: Character sprites_802
+  - first:
+      213: 4666303189722259810
+    second: Character sprites_803
+  - first:
+      213: 1958015692811175319
+    second: Character sprites_804
+  - first:
+      213: 1358417745196018504
+    second: Character sprites_805
+  - first:
+      213: -861499653352764843
+    second: Character sprites_806
+  - first:
+      213: -4808780410642401362
+    second: Character sprites_807
+  - first:
+      213: 138563686999396983
+    second: Character sprites_808
+  - first:
+      213: -3237521524319376305
+    second: Character sprites_809
+  - first:
+      213: -2525848019171696489
+    second: Character sprites_810
+  - first:
+      213: -1272476176820601802
+    second: Character sprites_811
+  - first:
+      213: 3180756400273130098
+    second: Character sprites_812
+  - first:
+      213: -6532074300310995789
+    second: Character sprites_813
+  - first:
+      213: 1063389201694565834
+    second: Character sprites_814
+  - first:
+      213: -1190880208502342784
+    second: Character sprites_815
+  - first:
+      213: -3077971202011539487
+    second: Character sprites_816
+  - first:
+      213: -4326768658084704925
+    second: Character sprites_817
+  - first:
+      213: -7394538421076163878
+    second: Character sprites_818
+  - first:
+      213: 6243513062460364299
+    second: Character sprites_819
+  - first:
+      213: 6019154389130880930
+    second: Character sprites_820
+  - first:
+      213: -2731869489819373211
+    second: Character sprites_821
+  - first:
+      213: 5229990640179541173
+    second: Character sprites_822
+  - first:
+      213: 5860373069669434565
+    second: Character sprites_823
+  - first:
+      213: 5959247869531706222
+    second: Character sprites_824
+  - first:
+      213: -6616915787114552166
+    second: Character sprites_825
+  - first:
+      213: -6000832351860899512
+    second: Character sprites_826
+  - first:
+      213: 8942195535249181576
+    second: Character sprites_827
+  - first:
+      213: -4429722836427004829
+    second: Character sprites_828
+  - first:
+      213: 8508139933425152308
+    second: Character sprites_829
+  - first:
+      213: -4563347937171289260
+    second: Character sprites_830
+  - first:
+      213: 1295757251199402709
+    second: Character sprites_831
+  - first:
+      213: 9150933434603274589
+    second: Character sprites_832
+  - first:
+      213: -5367722472601599484
+    second: Character sprites_833
+  - first:
+      213: 6922595499334570095
+    second: Character sprites_834
+  - first:
+      213: -3516442465524112085
+    second: Character sprites_835
+  - first:
+      213: -2152262753266423447
+    second: Character sprites_836
+  - first:
+      213: -8382587457267718809
+    second: Character sprites_837
+  - first:
+      213: 8217618421480235582
+    second: Character sprites_838
+  - first:
+      213: 1205290238483212337
+    second: Character sprites_839
+  - first:
+      213: 7702774570416554961
+    second: Character sprites_840
+  - first:
+      213: 7986422709883340678
+    second: Character sprites_841
+  - first:
+      213: -1320692134981381892
+    second: Character sprites_842
+  - first:
+      213: 7947690850665666462
+    second: Character sprites_843
+  - first:
+      213: 5325153005947398283
+    second: Character sprites_844
+  - first:
+      213: 326127777812663899
+    second: Character sprites_845
+  - first:
+      213: -3879342163627172203
+    second: Character sprites_846
+  - first:
+      213: 3703522828822771347
+    second: Character sprites_847
+  - first:
+      213: 6591607136878718139
+    second: Character sprites_848
+  - first:
+      213: 8166975764932336650
+    second: Character sprites_849
+  - first:
+      213: 8373751863269375860
+    second: Character sprites_850
+  - first:
+      213: 7029149053982066540
+    second: Character sprites_851
+  - first:
+      213: 3422460728904026449
+    second: Character sprites_852
+  - first:
+      213: 1733256607630305426
+    second: Character sprites_853
+  - first:
+      213: 3498009884474384416
+    second: Character sprites_854
+  - first:
+      213: -5156579475505563176
+    second: Character sprites_855
+  - first:
+      213: -6321185342342964847
+    second: Character sprites_856
+  - first:
+      213: -4001582295923957502
+    second: Character sprites_857
+  - first:
+      213: -9012319258211272066
+    second: Character sprites_858
+  - first:
+      213: 1967074552719477502
+    second: Character sprites_859
+  - first:
+      213: -4163347302076308420
+    second: Character sprites_860
+  - first:
+      213: -5987023404703725586
+    second: Character sprites_861
+  - first:
+      213: 5928429308066531389
+    second: Character sprites_862
+  - first:
+      213: 8652782692223840821
+    second: Character sprites_863
+  - first:
+      213: -2825372113477214895
+    second: Character sprites_864
+  - first:
+      213: -8975622351800737333
+    second: Character sprites_865
+  - first:
+      213: 5521595654990836766
+    second: Character sprites_866
+  - first:
+      213: 8884615316778325681
+    second: Character sprites_867
+  - first:
+      213: -8311247901381375236
+    second: Character sprites_868
+  - first:
+      213: 685032651692116929
+    second: Character sprites_869
+  - first:
+      213: -3976406397148627429
+    second: Character sprites_870
+  - first:
+      213: -3247999664240556574
+    second: Character sprites_871
+  - first:
+      213: -4329898279664738190
+    second: Character sprites_872
+  - first:
+      213: 1170546607759059409
+    second: Character sprites_873
+  - first:
+      213: -5105048742912024030
+    second: Character sprites_874
+  - first:
+      213: -4060750707231454539
+    second: Character sprites_875
+  - first:
+      213: -641292948579439498
+    second: Character sprites_876
+  - first:
+      213: 42245520988236888
+    second: Character sprites_877
+  - first:
+      213: 4224229563592920543
+    second: Character sprites_878
+  - first:
+      213: -1765518466969782775
+    second: Character sprites_879
+  - first:
+      213: 7391946775680997205
+    second: Character sprites_880
+  - first:
+      213: 1606179205095970999
+    second: Character sprites_881
+  - first:
+      213: -3285732387535907579
+    second: Character sprites_882
+  - first:
+      213: 7203075788769835744
+    second: Character sprites_883
+  - first:
+      213: -6592846121009911964
+    second: Character sprites_884
+  - first:
+      213: -7987368410784301824
+    second: Character sprites_885
+  - first:
+      213: 5123097160401563787
+    second: Character sprites_886
+  - first:
+      213: 8078789058171316901
+    second: Character sprites_887
+  - first:
+      213: 1670521142073885977
+    second: Character sprites_888
+  - first:
+      213: 8477589319616934157
+    second: Character sprites_889
+  - first:
+      213: -3395353437601178164
+    second: Character sprites_890
+  - first:
+      213: 5150900368016576150
+    second: Character sprites_891
+  - first:
+      213: 7766985458245108937
+    second: Character sprites_892
+  - first:
+      213: 4071220389009492633
+    second: Character sprites_893
+  - first:
+      213: 1203683875556921771
+    second: Character sprites_894
+  - first:
+      213: 7655215491078628652
+    second: Character sprites_895
+  - first:
+      213: 2068242286974121563
+    second: Character sprites_896
+  - first:
+      213: -8975055120418060124
+    second: Character sprites_897
+  - first:
+      213: 2529202534734537465
+    second: Character sprites_898
+  - first:
+      213: 8450238604685770731
+    second: Character sprites_899
+  - first:
+      213: 6501939015683648983
+    second: Character sprites_900
+  - first:
+      213: 6583863658597353069
+    second: Character sprites_901
+  - first:
+      213: -102921042623522510
+    second: Character sprites_902
+  - first:
+      213: -6888067068122816082
+    second: Character sprites_903
+  - first:
+      213: 5246192424466744015
+    second: Character sprites_904
+  - first:
+      213: 6071524717739554691
+    second: Character sprites_905
+  - first:
+      213: 3532115695048429167
+    second: Character sprites_906
+  - first:
+      213: -6078270788728890140
+    second: Character sprites_907
+  - first:
+      213: -8440476473831666765
+    second: Character sprites_908
+  - first:
+      213: 8857058529024200843
+    second: Character sprites_909
+  - first:
+      213: 3298412742959155212
+    second: Character sprites_910
+  - first:
+      213: 8809742181464558950
+    second: Character sprites_911
+  - first:
+      213: 3446611016636471426
+    second: Character sprites_912
+  - first:
+      213: -8929561454962831795
+    second: Character sprites_913
+  - first:
+      213: -5471949828714307056
+    second: Character sprites_914
+  - first:
+      213: 314575489281200695
+    second: Character sprites_915
+  - first:
+      213: -1244807679850648400
+    second: Character sprites_916
+  - first:
+      213: 3566826271740751542
+    second: Character sprites_917
+  - first:
+      213: 2515577049295594772
+    second: Character sprites_918
+  - first:
+      213: 6702657845774698245
+    second: Character sprites_919
+  - first:
+      213: 3335373272757625209
+    second: Character sprites_920
+  - first:
+      213: 659939967951889879
+    second: Character sprites_921
+  - first:
+      213: 2043697264679782328
+    second: Character sprites_922
+  - first:
+      213: -1629828097176044913
+    second: Character sprites_923
+  - first:
+      213: 5281139191288562366
+    second: Character sprites_924
+  - first:
+      213: -1659973619167318870
+    second: Character sprites_925
+  - first:
+      213: 2858716349090632424
+    second: Character sprites_926
+  - first:
+      213: -7782381844809033090
+    second: Character sprites_927
+  - first:
+      213: -8852577795364209632
+    second: Character sprites_928
+  - first:
+      213: 7513209935226191910
+    second: Character sprites_929
+  - first:
+      213: -3029835036985466648
+    second: Character sprites_930
+  - first:
+      213: 6730197757491095114
+    second: Character sprites_931
+  - first:
+      213: 4259349413480441268
+    second: Character sprites_932
+  - first:
+      213: 2736281201165848535
+    second: Character sprites_933
+  - first:
+      213: -5065731127146117016
+    second: Character sprites_934
+  - first:
+      213: -8580066473991360910
+    second: Character sprites_935
+  - first:
+      213: 1783822190627032210
+    second: Character sprites_936
+  - first:
+      213: 2967893207054622069
+    second: Character sprites_937
+  - first:
+      213: 5430975317303711066
+    second: Character sprites_938
+  - first:
+      213: 1933324556877248023
+    second: Character sprites_939
+  - first:
+      213: -1875312016627089417
+    second: Character sprites_940
+  - first:
+      213: 2676112265373480187
+    second: Character sprites_941
+  - first:
+      213: -3225440105891498564
+    second: Character sprites_942
+  - first:
+      213: 5238152753853013229
+    second: Character sprites_943
+  - first:
+      213: 6926076506178669792
+    second: Character sprites_944
+  - first:
+      213: 7068473653454489741
+    second: Character sprites_945
+  - first:
+      213: 1588167751742793677
+    second: Character sprites_946
+  - first:
+      213: -2703326573924096635
+    second: Character sprites_947
+  - first:
+      213: -2650927471807534342
+    second: Character sprites_948
+  - first:
+      213: -5353805304783352419
+    second: Character sprites_949
+  - first:
+      213: -34482334070045586
+    second: Character sprites_950
+  - first:
+      213: 7207779874436690926
+    second: Character sprites_951
+  - first:
+      213: 4907204183172615266
+    second: Character sprites_952
+  - first:
+      213: -2367567065433913364
+    second: Character sprites_953
+  - first:
+      213: -6701665195483355574
+    second: Character sprites_954
+  - first:
+      213: -7949672571709970089
+    second: Character sprites_955
+  - first:
+      213: 8228890719862786226
+    second: Character sprites_956
+  - first:
+      213: 4610575347754542908
+    second: Character sprites_957
+  - first:
+      213: -5845800827027962856
+    second: Character sprites_958
+  - first:
+      213: 4538987741012916969
+    second: Character sprites_959
+  - first:
+      213: -2397443025036207198
+    second: Character sprites_960
+  - first:
+      213: -5360324845439587247
+    second: Character sprites_961
+  - first:
+      213: 229754162474244766
+    second: Character sprites_962
+  - first:
+      213: -3466271391723378156
+    second: Character sprites_963
+  - first:
+      213: 254721327781163279
+    second: Character sprites_964
+  - first:
+      213: -6893854638671307280
+    second: Character sprites_965
+  - first:
+      213: 3206038677152909384
+    second: Character sprites_966
+  - first:
+      213: 8445359347394605820
+    second: Character sprites_967
+  - first:
+      213: -8399877310719686424
+    second: Character sprites_968
+  - first:
+      213: -8178272323505058317
+    second: Character sprites_969
+  - first:
+      213: -2941883216259700048
+    second: Character sprites_970
+  - first:
+      213: 8555429603614783560
+    second: Character sprites_971
+  - first:
+      213: 524114443333727950
+    second: Character sprites_972
+  - first:
+      213: -1079155002727476291
+    second: Character sprites_973
+  - first:
+      213: -6228439809910096661
+    second: Character sprites_974
+  - first:
+      213: 8623406549559872522
+    second: Character sprites_975
+  - first:
+      213: 7449374506599037003
+    second: Character sprites_976
+  - first:
+      213: -189089624783176003
+    second: Character sprites_977
+  - first:
+      213: -7171041971521744315
+    second: Character sprites_978
+  - first:
+      213: -4305158074892303583
+    second: Character sprites_979
+  - first:
+      213: -5152280106994692473
+    second: Character sprites_980
+  - first:
+      213: 1915383435125856303
+    second: Character sprites_981
+  - first:
+      213: 6981021634334621783
+    second: Character sprites_982
+  - first:
+      213: 355921968242857024
+    second: Character sprites_983
+  - first:
+      213: 973168877665926025
+    second: Character sprites_984
+  - first:
+      213: -872270720305532992
+    second: Character sprites_985
+  - first:
+      213: -2588785546738970393
+    second: Character sprites_986
+  - first:
+      213: 8469399121592726715
+    second: Character sprites_987
+  - first:
+      213: -7866264273800550810
+    second: Character sprites_988
+  - first:
+      213: 4809007213928396382
+    second: Character sprites_989
+  - first:
+      213: -3628105971027321435
+    second: Character sprites_990
+  - first:
+      213: 3280860627747703713
+    second: Character sprites_991
+  - first:
+      213: 67386713672636922
+    second: Character sprites_992
+  - first:
+      213: -4830773079226402534
+    second: Character sprites_993
+  - first:
+      213: 1289635687083197572
+    second: Character sprites_994
+  - first:
+      213: 5785127198217343971
+    second: Character sprites_995
+  - first:
+      213: 6463720823123282560
+    second: Character sprites_996
+  - first:
+      213: -6341711661543005357
+    second: Character sprites_997
+  - first:
+      213: -747204497310628890
+    second: Character sprites_998
+  - first:
+      213: -2184405481724895425
+    second: Character sprites_999
+  - first:
+      213: 5961585274439875912
+    second: Character sprites_1000
+  - first:
+      213: -8649947421257737961
+    second: Character sprites_1001
+  - first:
+      213: -9161165506829310161
+    second: Character sprites_1002
+  - first:
+      213: -3090567931263295199
+    second: Character sprites_1003
+  - first:
+      213: 934281736327878926
+    second: Character sprites_1004
+  - first:
+      213: 5189035494983420202
+    second: Character sprites_1005
+  - first:
+      213: 7854087020769107391
+    second: Character sprites_1006
+  - first:
+      213: -1250024789593568950
+    second: Character sprites_1007
+  - first:
+      213: -2217592672941663288
+    second: Character sprites_1008
+  - first:
+      213: -3488438635938996855
+    second: Character sprites_1009
+  - first:
+      213: -5523618937774032903
+    second: Character sprites_1010
+  - first:
+      213: 7075874874050602761
+    second: Character sprites_1011
+  - first:
+      213: 4788267110582437790
+    second: Character sprites_1012
+  - first:
+      213: -2792501518133929577
+    second: Character sprites_1013
+  - first:
+      213: 6307226963851186285
+    second: Character sprites_1014
+  - first:
+      213: -2689764499065674612
+    second: Character sprites_1015
+  - first:
+      213: -6205231692184827643
+    second: Character sprites_1016
+  - first:
+      213: -3401212893151545951
+    second: Character sprites_1017
+  - first:
+      213: 1230483378322508665
+    second: Character sprites_1018
+  - first:
+      213: -7168360214834869978
+    second: Character sprites_1019
+  - first:
+      213: 3919618169404572178
+    second: Character sprites_1020
+  - first:
+      213: -8838381960692808821
+    second: Character sprites_1021
+  - first:
+      213: 4844570198896300255
+    second: Character sprites_1022
+  - first:
+      213: 4197992604557787023
+    second: Character sprites_1023
+  - first:
+      213: -8179613086328967634
+    second: Character sprites_1024
+  - first:
+      213: -3775245856580168810
+    second: Character sprites_1025
+  - first:
+      213: -4363505091375673552
+    second: Character sprites_1026
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character sprites_0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1353
+        width: 320
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea206de60d029d50800000000000000
+      internalID: 6742465915530521314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1347
+        width: 320
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805dda6bb891cab0800000000000000
+      internalID: -4989538981430603646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1352
+        width: 320
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeef7baf6ca94bb0800000000000000
+      internalID: -4951236719698514264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 735
+        width: 320
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51555ffc2cbff36d0800000000000000
+      internalID: -3008409211929012971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 696
+        width: 320
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f394bd081bd79dce0800000000000000
+      internalID: -1379933609487808193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 675
+        width: 320
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a53937ac8235dd0800000000000000
+      internalID: -2498608518272951656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 320
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59396183ff98e0870800000000000000
+      internalID: 8651003663475970965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 27
+        width: 320
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1a4a639b88ced90800000000000000
+      internalID: -7067123386184064561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 27
+        width: 320
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3b1f313a33fa30800000000000000
+      internalID: 4247802856727068547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
