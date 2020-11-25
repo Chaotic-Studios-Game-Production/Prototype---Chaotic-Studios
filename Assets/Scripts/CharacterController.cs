@@ -5,17 +5,30 @@ using UnityEngine;
 public class CharacterController : MonoBehaviour
 {
     [SerializeField] float moveSpeed = 5f;
+    [SerializeField]
+    GameObject shot;
+    Vector3 direction;
     // Start is called before the first frame update
     SpriteRenderer sRenderer;
     void Start()
     {
-        sRenderer = GetComponent<SpriteRenderer>();        
+        sRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        direction = Input.mousePosition;
+        direction.z = 0;
+        direction = Camera.main.ScreenToWorldPoint(direction);
+        direction = direction - transform.position;
         Move();
+        if (Input.GetMouseButtonUp(0))
+        {
+            Instantiate(shot, transform.position, Quaternion.identity);
+        }
+        Debug.Log(direction);
+
     }
 
     private void Move()
@@ -25,13 +38,14 @@ public class CharacterController : MonoBehaviour
         var deltaY = Input.GetAxis("Vertical") * Time.deltaTime * moveSpeed;
         var newYPos = transform.position.y + deltaY;
         transform.position = new Vector2(newXPos, newYPos);
-        if(deltaX < 0)
+        if(direction.x < 0)
         {
             sRenderer.flipX = true;
         }
-        else if(deltaX> 0)
+        else if(direction.x> 0)
         {
             sRenderer.flipX = false;
         }
+
     }
 }
