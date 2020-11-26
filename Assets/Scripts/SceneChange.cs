@@ -7,11 +7,12 @@ public class SceneChange : MonoBehaviour
 {
     public void ChangeFirstScene()
     {
-        SceneManager.LoadScene("Level 1");
+        SceneManager.LoadScene("Level1");
     }
 
     public void ChangeSecondScene()
     {
-        SceneManager.LoadScene("Level 2");
+        Debug.Log("button click");
+        SceneManager.LoadScene("Level2");
     }
 }
